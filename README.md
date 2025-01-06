@@ -1,3 +1,10 @@
+![image](https://github.com/user-attachments/assets/54b49f34-3b34-4276-be0e-2a65771da0cd)
+![image](https://github.com/user-attachments/assets/804bdb6d-4e2c-4d06-9d02-534e005b9563)
+![image](https://github.com/user-attachments/assets/33eb91f5-cc33-4ea2-8a42-3345382032c4)
+
+
+
+
 # Nonlinear Dynamical Systems
 
 This repository contains MATLAB scripts for analyzing and simulating nonlinear dynamical systems.
